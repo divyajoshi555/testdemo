@@ -1,0 +1,15 @@
+{
+	"name": "gitTestDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d44b9f5f-f0bf-429a-8382-8e67cdaeb1dd",
+		"tenantId": "a5821db4-4e95-44b1-a479-e9a9024691e8"
+	}
+}
